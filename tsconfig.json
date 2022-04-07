@@ -1,8 +1,9 @@
 {
     "compilerOptions": {
+        "lib": ["ES2019"],
         "outDir": "./dist",
-        "module": "CommonJS",
-        "target": "ES2022",
+        "module": "commonjs",
+        "target": "ES2019",
         "esModuleInterop": true,
         "allowJs": true,
         "strictNullChecks": true
