@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api-arch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrafzik/nodejs-api-arch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akrafzik/nodejs-api-arch/issues"
+  },
+  "homepage": "https://github.com/akrafzik/nodejs-api-arch#readme"
+}
