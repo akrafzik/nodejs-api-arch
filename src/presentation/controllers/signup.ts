@@ -10,6 +10,6 @@ export class SignUpController implements Controller {
         return badRequest(new MissingParamError(field))
       }
     }
-    return ok({ ok: true })
+    return ok({ ok: true, date: new Date() })
   }
 }
